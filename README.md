@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white=https://twitter.com/HenriqueGrecco6">
 </a>
 
+<br />
 
 ### Hi ₍⇀‸↼‶₎ I introduce myself as Ranero189.
 
@@ -21,6 +22,7 @@
 
 💻 Game Design/Programming | Development & VR/AR | Computer Science
 
+<br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranero189&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranero189&layout=compact&theme=dracula)](https://github.com/Ranero189/github-readme-stats)
 
