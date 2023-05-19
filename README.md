@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white=https://twitter.com/HenriqueGrecco6">
 </a>
 
+
 Hi 눈_눈 I introduce myself as Stalker Red.
 
 ☠ I develop and test scripts for learning purposes.
