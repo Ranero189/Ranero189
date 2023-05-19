@@ -15,13 +15,11 @@
 </a>
 
 
-#### Hi 눈_눈 I introduce myself as Stalker Red.
+#### Hi ₍⇀‸↼‶₎ I introduce myself as Ranero189.
 
-☠ I develop and test scripts for learning purposes.
+👾 I develop and test scripts for learning purposes.
 
 💻 API/REST Integration
-
-👾 Pentester
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranero189&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranero189&layout=compact&theme=dracula)](https://github.com/Ranero189/github-readme-stats)
 
