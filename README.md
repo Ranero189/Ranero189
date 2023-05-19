@@ -19,7 +19,7 @@
 
 👾 I develop and test scripts for learning purposes.
 
-💻 Game design/programming | Development & VR/AR | Computer Science
+💻 Game Design/Programming | Development & VR/AR | Computer Science
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranero189&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranero189&layout=compact&theme=dracula)](https://github.com/Ranero189/github-readme-stats)
 
