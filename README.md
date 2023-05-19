@@ -23,6 +23,6 @@
 
 👾 Pentester
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranero189&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranero189&size_weight=0.5&count_weight=0.5)](https://github.com/Ranero189/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranero189&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranero189&size_weight=1.5&count_weight=1.5)](https://github.com/Ranero189/github-readme-stats)
 
 
