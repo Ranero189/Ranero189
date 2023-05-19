@@ -6,6 +6,6 @@
   <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white=https://ranero189.itch.io">
 </a>
 
-<a href="henrique.c.grecco@outlook.com" alt="Microsoft_Outlook" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white=henrique.c.grecco@outlook.com">
+<a href="mailto:henrique.c.grecco@outlook.com" alt="Microsoft_Outlook" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white=mailto:henrique.c.grecco@outlook.com">
 </a>
