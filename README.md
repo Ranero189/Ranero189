@@ -18,9 +18,9 @@
 
   #### Hi ₍⇀‸↼‶₎ I introduce myself as Ranero189.
 
-👾 I develop and test scripts for learning purposes.
+- 👾 I develop and test scripts for learning purposes.
 
-💻 Game Design/Programming | Development & VR/AR | Computer Science
+- 💻 Game Design/Programming | Development & VR/AR | Computer Science
 
 <br />
 
