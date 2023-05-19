@@ -33,5 +33,4 @@
 
 #
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
-
+![github-contribution-grid-snake](https://github.com/Ranero189/Ranero189/assets/110306388/44c6f244-cb8f-4125-8bcb-3a27d0978f0e)
