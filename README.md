@@ -1,38 +1,14 @@
-# Bem-vindo ao Meu Perfil no GitHub
+# Oi! Me chamo Henrique
 
-## Sobre Mim
+<div>
+  <a href="https://beacons.ai/Ranero189">
+    <img height="180cm" src="">
+    <img height="180cm" src="">
+</div>
 
-Olá! Sou Henrique, um estudante apaixonado por programação. Estou atualmente me formando em ciencia da computação na Universidade Paulista.
-
-## Minhas Habilidades
-
-- 💻 [Lista de Habilidades/Tecnologias que você domina]
-- 🌐 [Outras Habilidades/Tecnologias Relevantes]
-
-## Projetos Destacados
-
-Aqui estão alguns dos meus projetos mais interessantes:
-
-- [Nome do Projeto 1](link para o projeto): Uma breve descrição do projeto 1.
-- [Nome do Projeto 2](link para o projeto): Uma breve descrição do projeto 2.
-- [Nome do Projeto 3](link para o projeto): Uma breve descrição do projeto 3.
-
-## Minhas Redes Sociais
-
-Você pode me encontrar em várias redes sociais:
-
-- [LinkedIn](link para o seu perfil no LinkedIn)
-- [Twitter](link para o seu perfil no Twitter)
-- [Outras Redes Sociais]
-
-## Contato
-
-Se você deseja entrar em contato comigo, pode me enviar um email em [seu@email.com].
-
-## Contribuições
-
-Estou aberto a contribuições e colaborações em projetos interessantes. Se você tiver alguma ideia ou oportunidade de colaboração, não hesite em me contatar.
-
-## Agradecimentos
-
-Obrigado por visitar o meu perfil no GitHub. Fique à vontade para explorar meus projetos e entrar em contato comigo. Espero que possamos colaborar em algum projeto emocionante no futuro!
+<div>  style="display: inline_block"><br>
+  <img align="center" alt="Henr-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Henr-Csharp" height="30" width="40" src="">
+  <img align="center" alt="Henr-Python" height="30" width="40" src="">
+  <img align="center" alt="Henr-Java" height="30" width="40" src="">
+</div>
