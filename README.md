@@ -1,8 +1,4 @@
-#### Hi ₍⇀‸↼‶₎ I introduce myself as Henrique.
-
-- 👾 I develop and test scripts for learning purposes.
-
-- 💻 Programming | Computer Science
+###Oi!! Eu sou o Henrique Grecco
 
 <br />
 
