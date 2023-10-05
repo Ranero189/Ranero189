@@ -1,22 +1,38 @@
-## Oi!! Eu sou o Henrique Grecco
+# Bem-vindo ao Meu Perfil no GitHub
 
-<br />
+## Sobre Mim
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranero189&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranero189&layout=compact&theme=dracula)](https://github.com/Ranero189/github-readme-stats)
+Olá! Sou [Seu Nome], um [Sua Profissão/Interesses] apaixonado por [Suas Paixões/Tecnologias Favoritas]. Estou atualmente trabalhando como [Sua Posição/Trabalho] na [Nome da Empresa/Organização].
 
+## Minhas Habilidades
 
-<br />
+- 💻 [Lista de Habilidades/Tecnologias que você domina]
+- 🌐 [Outras Habilidades/Tecnologias Relevantes]
 
-![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)	![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+## Projetos Destacados
 
-#
+Aqui estão alguns dos meus projetos mais interessantes:
 
-<a href="https://www.linkedin.com/in/henrique-grecco" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/henrique-grecco">
-</a>
+- [Nome do Projeto 1](link para o projeto): Uma breve descrição do projeto 1.
+- [Nome do Projeto 2](link para o projeto): Uma breve descrição do projeto 2.
+- [Nome do Projeto 3](link para o projeto): Uma breve descrição do projeto 3.
 
-<a href="mailto:henrique.c.grecco@outlook.com" alt="Microsoft_Outlook" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white=mailto:henrique.c.grecco@outlook.com">
-</a>
+## Minhas Redes Sociais
 
-![github-contribution-grid-snake](https://github.com/Ranero189/Ranero189/assets/110306388/44c6f244-cb8f-4125-8bcb-3a27d0978f0e)
+Você pode me encontrar em várias redes sociais:
+
+- [LinkedIn](link para o seu perfil no LinkedIn)
+- [Twitter](link para o seu perfil no Twitter)
+- [Outras Redes Sociais]
+
+## Contato
+
+Se você deseja entrar em contato comigo, pode me enviar um email em [seu@email.com].
+
+## Contribuições
+
+Estou aberto a contribuições e colaborações em projetos interessantes. Se você tiver alguma ideia ou oportunidade de colaboração, não hesite em me contatar.
+
+## Agradecimentos
+
+Obrigado por visitar o meu perfil no GitHub. Fique à vontade para explorar meus projetos e entrar em contato comigo. Espero que possamos colaborar em algum projeto emocionante no futuro!
