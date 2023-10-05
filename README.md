@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá! Sou [Seu Nome], um [Sua Profissão/Interesses] apaixonado por [Suas Paixões/Tecnologias Favoritas]. Estou atualmente trabalhando como [Sua Posição/Trabalho] na [Nome da Empresa/Organização].
+Olá! Sou Henrique, um estudante apaixonado por programação. Estou atualmente me formando em ciencia da computação na Universidade Paulista.
 
 ## Minhas Habilidades
 
