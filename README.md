@@ -12,7 +12,7 @@
 
 - 👾 I develop and test scripts for learning purposes.
 
-- 💻 Game Design/Programming | Development & VR/AR | Computer Science
+- 💻 Programming | Computer Science
 
 <br />
 
