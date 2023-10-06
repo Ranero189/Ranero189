@@ -1,4 +1,4 @@
-## Oi! Eu sou o Henrique, estudante de ciencia da computação
+## Oi! Eu sou o Henrique, estudante de ciência da computação
 
 - 💼 À procura de estágio
 - 🌱 Me aprofundando em JavaScript
