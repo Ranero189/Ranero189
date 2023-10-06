@@ -1,6 +1,6 @@
-# Oi! Me chamo Henrique
+# Oi! Eu sou o Henrique, estudante de ciencia da computação
 
-- 💼 Procurando estágio
+- 💼 À procura de estágio
 - 🌱 Me aprofundando em JavaScript
 
 <div>
