@@ -5,7 +5,6 @@
 
 <div>
   <a href="https://beacons.ai/Ranero189">
-    <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Ranero189&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranero189&layout=compact&langs_count=7&theme=react" />
 </div>
 <div  style="display: inline_block"><br>
