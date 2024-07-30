@@ -1,23 +1,20 @@
-## Oi! Eu sou o Henrique, estudante de ciência da computação
+## Henrique Grecco 👋
+Olá! Eu sou Henrique, estudante de Ciência da Computação aprendendo Java e Spring Boot.
 
-- 💼 À procura de estágio
-- 🌱 Me aprofundando em JavaScript
+## Conecte-se comigo 📩
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/henrique-grecco/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:henrique.c.grecco@outlook.com)
 
-<div>
-  <a href="https://beacons.ai/Ranero189">
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranero189&layout=compact&langs_count=7&theme=react" />
-</div>
-<div  style="display: inline_block"><br>
-  <img align="center" alt="Henr-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Henr-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="Henr-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="Henr-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-</div>
+## Habilidades
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=000)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=green&color=000)
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&color=000)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=000)](https://docs.github.com/)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=orange&color=000)
 
-##
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranero189&theme=transparent&bg_color=000&show_icons=true&hide_title=true&icon_color=FFF&title_color=FFF&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ranero189&layout=compact&bg_color=000&title_color=FFF&text_color=FFF)
 
-<div>
-  <a href="https://www.linkedin.com/in/henrique-grecco" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:henrique.c.grecco@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  
-</div>
+## Minhas contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ranero189&repo=dio-lab-open-source&bg_color=000&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/Ranero189/dio-lab-open-source)
