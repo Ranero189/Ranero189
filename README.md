@@ -14,7 +14,6 @@ Olá! Eu sou Henrique, estudante de Ciência da Computação aprendendo Java e S
 
 ## 📊GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranero189&theme=transparent&bg_color=000&show_icons=true&hide_title=true&icon_color=FFF&title_color=FFF&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ranero189&layout=compact&bg_color=000&title_color=FFF&text_color=FFF)
 
 ## 📌Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ranero189&repo=dio-lab-open-source&bg_color=000&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/Ranero189/dio-lab-open-source)
