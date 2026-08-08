@@ -14,7 +14,7 @@
 - 💼 Atuei como **Assistente de Sistema em TI** na Unimed Araraquara — help desk, infraestrutura, banco de dados e automações
 - 🌐 Passei pela **Compass UOL** como estagiário, aprendendo React.js, Node.js, AWS e boas práticas ágeis
 - 🔭 No momento, unindo minha bagagem de infraestrutura com desenvolvimento backend em Java/Spring
-- ⚡ Curiosidade: já ajudei clientes a resolver "problemas de internet" que eram, na real, o cabo desconectado — hoje resolvo isso via automação com Python e PowerShell
+- ⚡ Curiosidade: já ajudei clientes a resolver "problemas de internet" que eram, na real, o cabo desconectado
 - 📍 Araraquara, SP, Brasil
 
 ## 🛠️ Stack & Ferramentas
